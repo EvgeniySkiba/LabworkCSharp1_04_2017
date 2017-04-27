@@ -8,7 +8,6 @@ namespace LabWork1
 {
     public class Program
     {
-
         /// <summary>
         /// compare two digits 
         /// </summary>
